@@ -1,0 +1,10 @@
+<service>
+	<serviceName>dimecuba</serviceName>
+	<serviceAliases>
+		<alias>recargar</alias>
+		<alias>recargas</alias>
+	</serviceAliases>
+	<serviceDescription>Servicio especifico para las recargas de DimeCuba</serviceDescription>
+	<creatorEmail>ricardo@apretaste.com</creatorEmail>
+	<serviceCategory>negocios</serviceCategory>
+</service>
